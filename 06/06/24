@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<link rel="stylesheet" href="style.ca
+</head>
+<body>
+    <header>
+        <h1>Perfil do Escritor Famoso</h1>
+        <nav>
+            <ul>
+                <li><a href="#biografia">Biografia</a></li>
+                <li><a href="#obras">Obras Principais</a></li>
+                <li><a href="#frases">Frases Famosas</a></li>
+                <li><a href="#referencias">Referências</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="biografia">
+            <h2>Biografia</h2>
+            <p><strong>Nome:</strong> Monteiro Lobato</p>
+            <p><strong>Data de Nascimento:</strong> 18 de abril de 1882</p>
+            <p><strong>Biografia:</strong> Monteiro Lobato (1882-1948) foi um escritor e editor brasileiro. "O Sítio do Pica-pau Amarelo" é sua obra de maior destaque na literatura infantil. Criou a "Editora Monteiro Lobato" e mais tarde a "Companhia Editora Nacional". Foi um dos primeiros autores de literatura infantil de nosso país e de toda América Latina.
+
+Ao lado da literatura infantil, Monteiro Lobato também deixou extensa obra voltada para o público adulto. Retratou os vilarejos decadentes e a população do Vale do Paraíba, quando da crise do café.
+
+Lobato situa-se entre os autores do Pré-Modernismo, período que precedeu a Semana de Arte Moderna. Lobato foi também jornalista, tradutor e empresário. Fundou a Companhia Petróleo do Brasil, à qual se dedicou por dez anos.</p>
+        </section>
+
+        <section id="obras">
+            <h2>Obras Principais</h2>
+            <ol>
+                <li>Obra 1</li>
+                <li>Obra 2</li>
+                <li>Obra 3</li>
+            </ol>
+        </section>
+
+        <section id="frases">
+            <h2>Frases Famosas</h2>
+            <ul>
+                <li><em>"Frase 1 do escritor famoso."</em></li>
+                <li><em>"Frase 2 do escritor famoso."</em></li>
+                <li><em>"Frase 3 do escritor famoso."</em></li>
+            </ul>
+        </section>
+
+        <section id="referencias">
+            <h2>Referências</h2>
+            <ul>
+                <li><a href="https://www.wikipedia.org" target="_blank">Wikipedia</a></li>
+                <li><a href="https://www.biblioteca.com" target="_blank">Biblioteca Online</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Nome do Escritor. Todos os direitos reservados.</p>
+        <address>
+            Para entrar em contato, envie um e-mail para <a href="mailto:contato@escritorfamoso.com">contato@escritorfamoso.com</a>.
+        </address>
+    </footer>
+</body>
+</html>
